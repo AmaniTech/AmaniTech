@@ -41,6 +41,7 @@
     <img src="https://skillicons.dev/icons?i=laravel,nodejs,python,javascript,express,nextjs,mysql,flask" /><br>
 </div>
 
+<!--
 <br/>
 <hr/>
 
