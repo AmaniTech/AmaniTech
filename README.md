@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Python and AI  
   
 
-- ❓ Ask me about anything related to PHP , FLutter , Laravel and related technologies  
+- ❓ Ask me about anything related to ExpressJs , FLutter , Laravel and related technologies  
   
 
 - ⚡ Fun fact: Im a Prompt Enggineer 🤖
