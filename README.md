@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Qomarus Zamani 😎, a full-stack developer, gamers, and weaboo of course ! 🥳</div>  
+### <div align="center">I'm Qomarus Zamani , a full-stack developer, gamers, Kpopers and weaboo of course ! </div>  
   
   
 
