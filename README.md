@@ -6,6 +6,7 @@
 ### <div align="center">I'm Qomarus Zamani , a full-stack developer, gamers, Kpopers and weaboo of course ! </div>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanitech)](https://github.com/amanitech/github-readme-stats)
+[![Amani's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanitech)](https://github.com/amanitech/github-readme-stats)
   
   
 
