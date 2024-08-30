@@ -4,6 +4,8 @@
   
 
 ### <div align="center">I'm Qomarus Zamani , a full-stack developer, gamers, Kpopers and weaboo of course ! </div>  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmaniTech&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
   
   
 
