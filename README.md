@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Laravel, ExpressJs, Flutter**
 
-💬 Ask me about **Node.js, PHP, Flutter... or anything [here](https://github.com/amanitech/amanitech/issues)**
+💬 Ask me about **Node.js, PHP, Python... or anything [here](https://github.com/amanitech/amanitech/issues)**
 
 ⚡ I enjoy **games** and **anime**.
 
